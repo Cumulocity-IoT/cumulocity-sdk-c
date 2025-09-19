@@ -1,3 +1,8 @@
+_This repository is **deprecated** and is no longer maintained._
+
+_Future development and support have been moved to [thin-edge.io](https://github.com/thin-edge/thin-edge.io)._
+_Please refer to the thin-edge.io repository for the latest updates and contributions._
+
 # Cumulocity C++ Library #
 
 Cumulocity C++ Library is an asynchronous, event-driven networking library to ease your development for connecting to the Cumulocity cloud. The library uses Cumulocity's self invented SmartREST protocol for M2M communication which targets any device that are capable of running embedded Linux.
@@ -72,6 +77,3 @@ make clean
 SR_PLUGIN_LUA:=1
 ```
   to your init.mk.
-
-* How can I contact Cumulocity in case I have questions?  
-  You can reach us by email at Software AG Cumulocity IoT <Helpdesk-CumulocityIoT@softwareag.com>
